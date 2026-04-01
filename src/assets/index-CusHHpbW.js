@@ -1,0 +1,1 @@
+import{L as t}from"./index-BA8CEG36.js";const e=async a=>await t.get({url:"/exam/test-result/all-page",params:a}),s=async a=>await t.get({url:"/exam/test-result/detail",params:a}),r=async a=>await t.download({url:"/exam/test-result/export-excel",params:a});export{e as a,r as b,s as g};
