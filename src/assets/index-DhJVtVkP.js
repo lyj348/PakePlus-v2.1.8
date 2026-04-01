@@ -1,0 +1,1 @@
+import{L as t}from"./index-BA8CEG36.js";const s=async a=>await t.get({url:"/exam/test-result/marking-page",params:a}),e=async a=>await t.get({url:"/exam/test-result/get-marking?testResultId="+a}),r=async a=>await t.post({url:"/exam/test-result/submit",data:a});export{s as a,e as g,r as s};
