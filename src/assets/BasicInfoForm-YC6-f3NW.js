@@ -1,0 +1,1 @@
+import{_ as r}from"./BasicInfoForm.vue_vue_type_script_setup_true_lang-BHOZmDmz.js";import"./index-BA8CEG36.js";import"./form-designer-gROHSw_0.js";import"./form-create-ENmigThn.js";import"./formRules-DgcYMR4P.js";export{r as default};
