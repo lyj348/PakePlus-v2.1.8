@@ -1,0 +1,1 @@
+import{_ as o}from"./CourseManagement.vue_vue_type_script_setup_true_lang-BxBkDPCn.js";import"./index-BA8CEG36.js";import"./form-designer-gROHSw_0.js";import"./form-create-ENmigThn.js";import"./course-tY6pfGhS.js";import"./index.vue_vue_type_script_setup_true_lang-6JDhdEL3.js";export{o as default};
